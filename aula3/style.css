@@ -1,0 +1,41 @@
+
+body {
+    padding-top: 6rem;
+    margin: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: green;
+}
+
+td {
+    background-color: yellow;
+}
+img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+caption {
+    background-color: green;
+    
+}
+.fundo {
+    background-color: blue;
+    
+    
+}
+.titulo {
+    font-size: 3rem;
+    font-weight: 900;
+    border: solid black 10px;
+    border-radius: 10px 10px 0px 0px;
+}
+.tabela {
+    border: solid black 10px;
+    border-radius: 0px 0px 10px 10px;
+    
+}
+source {
+    background-color: yellow;
+}
